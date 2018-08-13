@@ -3,7 +3,7 @@ The ball
 
 ## What are we doing?
 
-Twitter sentiment analysis
-News sentiment analysis
+* Twitter sentiment analysis
+* News sentiment analysis
 
 
